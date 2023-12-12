@@ -34,7 +34,7 @@ if( ! class_exists( 'WoosterUpdateChecker' ) ) {
             if (false === $remote || !$this->cache_allowed) {
 
                 $remote = wp_remote_get(
-                    'https://raw.githubusercontent.com/guillaumeDuboisDev/wooster-badge/main/wooster-info.json',
+                    'https://raw.githubusercontent.com/guillaumeDuboisDev/wooster-badge-json/main/wooster-badge-info.json',
                     [
                         'timeout' => 10,
                         'headers' => [

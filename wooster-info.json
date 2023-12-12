@@ -5,9 +5,9 @@
 	"author_profile" : "https://profiles.wordpress.org/guillaumedub",
 	"version" : "1.0.1",
 	"download_url" : "https://wooster.fr/app/uploads/updater/wooster-badge.zip",
-	"requires" : "3.0",
-	"tested" : "6.3",
-	"requires_php" : "5.3",
+	"requires" : "5.6",
+	"tested" : "6.4",
+	"requires_php" : "5.6",
 	"last_updated" : "2023-12-11 10:00:00",
 	"sections" : {
 		"description" : "Intègre le badge de partenariat de Wooster.",

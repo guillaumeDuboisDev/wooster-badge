@@ -6,7 +6,7 @@
 	"version" : "1.0.1",
 	"download_url" : "https://wooster.fr/app/uploads/updater/wooster-badge.zip",
 	"requires" : "5.6",
-	"tested" : "6.4",
+	"tested" : "6.4.2",
 	"requires_php" : "5.6",
 	"last_updated" : "2023-12-11 10:00:00",
 	"sections" : {

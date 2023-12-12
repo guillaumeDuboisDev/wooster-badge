@@ -5,10 +5,9 @@
 	"author_profile" : "https://profiles.wordpress.org/guillaumedub",
 	"version" : "1.0.1",
 	"download_url" : "https://wooster.fr/app/uploads/updater/wooster-badge.zip",
-	"requires" : "5.6",
+	"requires" : "3.0",
 	"tested" : "6.3",
-	"requires_php" : "5.6",
-    "added" : "2023-12-10 20:00:00",
+	"requires_php" : "5.3",
 	"last_updated" : "2023-12-11 10:00:00",
     "homepage" : "https://wooster.fr/",
 	"sections" : {

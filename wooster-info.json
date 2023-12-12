@@ -9,7 +9,6 @@
 	"tested" : "6.3",
 	"requires_php" : "5.3",
 	"last_updated" : "2023-12-11 10:00:00",
-    "homepage" : "https://wooster.fr/",
 	"sections" : {
 		"description" : "Intègre le badge de partenariat de Wooster.",
 		"installation" : "Activez le plugin, renseignez votre numéro de partenaire et le badge sera disponible.",

@@ -4,7 +4,7 @@
 	"author" : "<a href='https://wooster.fr/'>Guillaume Dubois</a>",
 	"author_profile" : "https://profiles.wordpress.org/guillaumedub",
 	"version" : "1.0.1",
-	"download_url" : "https://wooster.fr/app/uploads/updater/wooster-badge.zip",
+	"download_url" : "https://github.com/guillaumeDuboisDev/wooster-badge/raw/main/wooster-badge.zip",
 	"requires" : "5.0",
 	"tested" : "6.4.2",
 	"requires_php" : "5.6",
